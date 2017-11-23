@@ -1,0 +1,11 @@
+.wrap.shortlink > .container {
+    padding: 15px 20px;
+}
+
+.wrap.shortlink .alert {
+    margin-top: 5px;
+}
+
+[v-cloak] {
+    display: none;
+}
